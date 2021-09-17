@@ -1,0 +1,10 @@
+#Block Letter Code Intials
+
+
+print("BBBB    GGG")
+print("B   B  G   G")
+print("B   B  G    ")
+print("BBBB   G  GG")
+print("B   B  G   G")
+print("B   B  G   G")
+print("BBBB    GGG")
